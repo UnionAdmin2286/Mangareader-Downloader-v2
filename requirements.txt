@@ -4,5 +4,3 @@ PyMuPDF
 pillow
 requests
 beautifulsoup4
-fitz
-download
