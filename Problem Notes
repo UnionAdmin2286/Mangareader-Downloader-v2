@@ -1,0 +1,8 @@
+Add "import os" to Batch.py file
+Install BeautifulSoup4 via Command Line, This is needed to run Gui.py
+[pip install beautifulsoup4]
+Install Requests Module via Command Line, This is needed to run Gui.py
+[pip install requests]
+Install Python Imaging Library (PIL or Pillow) module via command line, This is needed to run Stitcher.py
+[pip install pillow]
+You need to Replace ChromeDriver.exe with an up to date version [https://storage.googleapis.com/chrome-for-testing-public/124.0.6367.91/win32/chromedriver-win32.zip]
